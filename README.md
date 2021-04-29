@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AndreFirmoo
+- 👀 I’m interested in learning all themes of technology
+- 🌱 I’m currently learning IOS(swift)
+- 📫 How to reach me: https://www.linkedin.com/in/andrefirmo/
